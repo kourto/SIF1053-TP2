@@ -66,7 +66,7 @@ int main(void)
 
     testFonctionnement();
 
-    system("kate response.txt");
+    system("response.txt");
 
     return EXIT_SUCCESS;
 }
