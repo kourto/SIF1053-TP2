@@ -66,7 +66,7 @@ int main(void)
 
     testFonctionnement();
 
-    system("response.txt");
+    system("notepad response.txt");
 
     return EXIT_SUCCESS;
 }
